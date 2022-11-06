@@ -7,3 +7,4 @@ describe_pet("cat", "vasya")
 describe_pet("cat", "semen")
 
 print("I love my pets")
+print("Whatever happens,\nall my pets are always with me.")
