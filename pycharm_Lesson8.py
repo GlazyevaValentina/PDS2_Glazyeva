@@ -5,3 +5,4 @@ def describe_pet(animal_type, pet_name):
 
 
 describe_pet("cat", "vasya")
+describe_pet("cat", "semen")
