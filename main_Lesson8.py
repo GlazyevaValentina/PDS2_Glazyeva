@@ -7,3 +7,10 @@ describe_pet("cat", "vasya")
 describe_pet("cat", "semen")
 
 print("I love my pets")
+
+# Transition to a branch test
+def test_count_quantity(kittens, puppies):
+    quantity = kittens + puppies
+    print(quantity)
+
+test_count_quantity(3,3)
