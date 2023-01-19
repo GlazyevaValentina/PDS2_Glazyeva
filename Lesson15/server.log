@@ -1,0 +1,45 @@
+2023-01-19 14:16:00,630 :: serverFL :: 13 :: INFO :: Program started.
+2023-01-19 14:16:00,631 :: serverFL :: 7 :: INFO :: Setting host: 127.0.0.1 and port: 12001
+2023-01-19 14:16:00,674 :: serverFL :: 12 :: INFO :: Server is running on 127.0.0.1:12001
+2023-01-19 14:16:07,182 :: serverFL :: 16 :: INFO :: Client connected. Waiting for message.
+2023-01-19 14:16:13,842 :: serverFL :: 20 :: INFO :: Message from client has been recived.
+2023-01-19 14:16:22,357 :: serverFL :: 28 :: INFO :: Message to the client has been send.
+2023-01-19 14:16:22,357 :: serverFL :: 16 :: INFO :: Client connected. Waiting for message.
+2023-01-19 14:16:34,390 :: serverFL :: 20 :: INFO :: Message from client has been recived.
+2023-01-19 14:17:02,348 :: serverFL :: 28 :: INFO :: Message to the client has been send.
+2023-01-19 14:17:02,350 :: serverFL :: 16 :: INFO :: Client connected. Waiting for message.
+2023-01-19 14:17:30,319 :: serverFL :: 20 :: INFO :: Message from client has been recived.
+2023-01-19 14:17:30,319 :: serverFL :: 28 :: INFO :: Message to the client has been send.
+2023-01-19 14:17:30,320 :: serverFL :: 16 :: INFO :: Client connected. Waiting for message.
+2023-01-19 14:17:35,211 :: serverFL :: 20 :: INFO :: Message from client has been recived.
+2023-01-19 14:17:35,211 :: serverFL :: 26 :: WARNING :: Message can not be empty!
+2023-01-19 14:17:38,956 :: serverFL :: 28 :: INFO :: Message to the client has been send.
+2023-01-19 14:17:38,956 :: serverFL :: 16 :: INFO :: Client connected. Waiting for message.
+2023-01-19 14:19:08,451 :: serverFL :: 32 :: ERROR :: Server has been stoped.
+2023-01-19 14:19:08,452 :: serverFL :: 37 :: INFO :: Done!
+2023-01-19 14:19:08,452 :: serverFL :: 15 :: INFO :: Program finished.
+
+2023-01-19 14:24:39,453 :: serverFL :: 13 :: INFO :: Program started.
+2023-01-19 14:24:39,453 :: serverFL :: 7 :: INFO :: Setting host: 127.0.0.1 and port: 12001
+2023-01-19 14:24:39,455 :: serverFL :: 12 :: INFO :: Server is running on 127.0.0.1:12001
+2023-01-19 14:24:53,378 :: serverFL :: 16 :: INFO :: Client connected. Waiting for message.
+2023-01-19 14:24:59,022 :: serverFL :: 20 :: INFO :: Message from client has been recived.
+2023-01-19 14:25:06,898 :: serverFL :: 35 :: ERROR :: name 'Q' is not defined
+2023-01-19 14:25:06,898 :: serverFL :: 37 :: INFO :: Done!
+2023-01-19 14:25:06,898 :: serverFL :: 15 :: INFO :: Program finished.
+
+2023-01-19 14:26:07,183 :: serverFL :: 13 :: INFO :: Program started.
+2023-01-19 14:26:07,183 :: serverFL :: 7 :: INFO :: Setting host: 127.0.0.1 and port: 12001
+2023-01-19 14:26:07,184 :: serverFL :: 12 :: INFO :: Server is running on 127.0.0.1:12001
+2023-01-19 14:26:13,623 :: serverFL :: 16 :: INFO :: Client connected. Waiting for message.
+2023-01-19 14:26:19,551 :: serverFL :: 20 :: INFO :: Message from client has been recived.
+2023-01-19 14:26:26,880 :: serverFL :: 28 :: INFO :: Message to the client has been send.
+2023-01-19 14:26:26,880 :: serverFL :: 16 :: INFO :: Client connected. Waiting for message.
+2023-01-19 14:26:31,767 :: serverFL :: 20 :: INFO :: Message from client has been recived.
+2023-01-19 14:26:36,955 :: serverFL :: 28 :: INFO :: Message to the client has been send.
+2023-01-19 14:26:36,956 :: serverFL :: 16 :: INFO :: Client connected. Waiting for message.
+2023-01-19 14:28:39,031 :: serverFL :: 20 :: INFO :: Message from client has been recived.
+2023-01-19 14:28:52,707 :: serverFL :: 32 :: ERROR :: Server has been stoped.
+2023-01-19 14:28:52,708 :: serverFL :: 37 :: INFO :: Done!
+2023-01-19 14:28:52,708 :: serverFL :: 15 :: INFO :: Program finished.
+
